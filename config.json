@@ -18,20 +18,20 @@
       "native": "NativeAd"
     },
     "frequency": {
-      "interstitialEveryNBreaks": 3,
-      "interstitialCooldownSeconds": 120,
-      "interstitialMaxPerSession": 6,
-      "noInterstitialFirstSeconds": 60,
-      "fullscreenGapSeconds": 45,
-      "appOpenCooldownSeconds": 240,
-      "appOpenMaxPerSession": 3,
+      "interstitialEveryNBreaks": 2,
+      "interstitialCooldownSeconds": 20,
+      "interstitialMaxPerSession": 50,
+      "noInterstitialFirstSeconds": 20,
+      "fullscreenGapSeconds": 20,
+      "appOpenCooldownSeconds": 120,
+      "appOpenMaxPerSession": 50,
       "appOpenMinBackgroundSeconds": 30,
       "appOpenOnSplash": true,
       "appOpenSkipFirstLaunch": true,
-      "nativeEveryMin": 4,
+      "nativeEveryMin": 3,
       "nativeEveryMax": 5,
-      "importGateMin": 4,
-      "importGateMax": 5
+      "importGateMin": 2,
+      "importGateMax": 3
     },
     "content": {
       "maxAdContentRating": "PG",
